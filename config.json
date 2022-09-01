@@ -1,0 +1,13 @@
+{
+  "bot": {
+    "token": "BOT TOKEN HERE"
+  },
+  "status": {
+    "anystatus": false,
+    "statustext": "Status to look for",
+    "roletogiveid": "Role ID to give"
+  },
+  "options": {
+  "consolelogs": true
+  }
+}
